@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 -->
 
 
-# [![Flavio Oliveira Banner](https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/banner.png)](https://.org/)
+# [![Flavio Oliveira Banner](https://raw.githubusercontent.com/flaviohpo/Flaviohpo/master/imagens/banner.png)](https://.org/)
 <p align='center'>
-<a href="https://www.youtube.com/user/FBS750?sub_confirmation=1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-youtube-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/engfabiosouza/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-linkedin-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/fabiosouza.io" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-instagram-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/fabiosouza.io/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-facebook-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/user/=1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-youtube-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in//" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-linkedin-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-instagram-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com//" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-facebook-verde.png"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -58,8 +58,8 @@ Fique a vontade para entrar em contato:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBSeletronica&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FBSeletronica&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohpo&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=flaviohpo&theme=buefy"/></td>
     </tr>   
 </table>
 </center>
